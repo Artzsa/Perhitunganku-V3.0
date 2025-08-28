@@ -1,0 +1,26 @@
+2025-08-25 02:18:45,217 [ERROR] Failed to connect to Google Sheets: [Errno 2] No such file or directory: 'credentials.json'
+2025-08-25 02:20:19,762 [INFO] Google Sheets connected successfully.
+2025-08-25 02:20:27,640 [INFO] Google Sheets connected successfully.
+2025-08-25 02:20:27,640 [INFO] Google Sheets connected successfully.
+2025-08-25 02:20:31,266 [ERROR] Failed to import handlers: cannot import name 'handle_start' from partially initialized module 'handlers.start_handlers' (most likely due to a circular import) (D:\Data Alzsa\Perhitunganku_bot\handlers\start_handlers.py)
+2025-08-25 02:20:31,266 [ERROR] Failed to import handlers: cannot import name 'handle_start' from partially initialized module 'handlers.start_handlers' (most likely due to a circular import) (D:\Data Alzsa\Perhitunganku_bot\handlers\start_handlers.py)
+2025-08-25 02:21:31,611 [INFO] Google Sheets connected successfully.
+2025-08-25 02:21:39,020 [INFO] Google Sheets connected successfully.
+2025-08-25 02:21:39,020 [INFO] Google Sheets connected successfully.
+2025-08-25 02:21:42,699 [ERROR] Fatal error: cannot import name 'get_budget' from partially initialized module 'handlers.budget_handlers' (most likely due to a circular import) (D:\Data Alzsa\Perhitunganku_bot\handlers\budget_handlers.py)
+2025-08-25 02:21:42,699 [ERROR] Fatal error: cannot import name 'get_budget' from partially initialized module 'handlers.budget_handlers' (most likely due to a circular import) (D:\Data Alzsa\Perhitunganku_bot\handlers\budget_handlers.py)
+2025-08-25 02:25:45,902 [INFO] Google Sheets connected successfully.
+2025-08-25 02:25:53,182 [INFO] Google Sheets connected successfully.
+2025-08-25 02:25:53,182 [INFO] Google Sheets connected successfully.
+2025-08-25 02:25:56,732 [ERROR] Failed to register handlers: cannot import name 'get_budget' from partially initialized module 'handlers.budget_handlers' (most likely due to a circular import) (D:\Data Alzsa\Perhitunganku_bot\handlers\budget_handlers.py)
+2025-08-25 02:25:56,732 [ERROR] Failed to register handlers: cannot import name 'get_budget' from partially initialized module 'handlers.budget_handlers' (most likely due to a circular import) (D:\Data Alzsa\Perhitunganku_bot\handlers\budget_handlers.py)
+2025-08-25 02:27:16,430 [INFO] Google Sheets connected successfully.
+2025-08-25 02:27:24,919 [INFO] Google Sheets connected successfully.
+2025-08-25 02:27:24,919 [INFO] Google Sheets connected successfully.
+2025-08-25 02:27:29,463 [ERROR] Failed to register handlers: cannot import name 'get_budget' from partially initialized module 'handlers.budget_handlers' (most likely due to a circular import) (D:\Data Alzsa\Perhitunganku_bot\handlers\budget_handlers.py)
+2025-08-25 02:27:29,463 [ERROR] Failed to register handlers: cannot import name 'get_budget' from partially initialized module 'handlers.budget_handlers' (most likely due to a circular import) (D:\Data Alzsa\Perhitunganku_bot\handlers\budget_handlers.py)
+2025-08-25 02:29:40,532 [INFO] Google Sheets connected successfully.
+2025-08-25 02:29:44,780 [INFO] Google Sheets connected successfully.
+2025-08-25 02:29:44,780 [INFO] Google Sheets connected successfully.
+2025-08-25 02:29:44,784 [ERROR] Fatal error: cannot import name 'notif_api' from 'main' (D:\Data Alzsa\Perhitunganku_bot\main.py)
+2025-08-25 02:29:44,784 [ERROR] Fatal error: cannot import name 'notif_api' from 'main' (D:\Data Alzsa\Perhitunganku_bot\main.py)
